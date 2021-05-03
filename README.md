@@ -6,3 +6,5 @@ Steve wants to analyze stock data to advise his parents on future investments. T
 ## Results
 I began the refactoring of the code by inputing the provided, initial code. I then added, removed or edited the code for more efficiency. 
 
+
+[VBA_Challenge.pdf](https://github.com/KristinaCastro/VBA-Challenge-/files/6412671/VBA_Challenge.pdf)

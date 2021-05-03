@@ -17,3 +17,10 @@ Refactoring a code allows us to take fewer steps, use less memory or improve the
 ### How do these pros and cons apply to refactoring the original VBA script?
 When refactored properly, the efficency of the code improved and as a result decreased the Macro running time. A con is entering the wrong loop variable and not improving the original macro at all, by ruining the original VBA script which didnt allow me to run the macro at all, which was my case. 
 
+When refactored properly, below are the results of the successfully run macro.
+
+All Stock Data for 2017
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/81998045/116837844-0315b680-ab9a-11eb-886c-80c3e73f2ecd.png)
+
+All Stock Data for 2018
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/81998045/116837859-14f75980-ab9a-11eb-8bc1-b662bb0f6e7a.png)
